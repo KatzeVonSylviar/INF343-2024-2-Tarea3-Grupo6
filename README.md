@@ -57,6 +57,7 @@ Escriba una analogía de los sistemas A y B con un sistema de inscripción prese
 
 • Procesar una solicitud implica ir a la sala correspondiente a ese paralelo y hablar con la persona que
 inscribe a los estudiantes en ese paralelo.
+comente las diferencias entre ambos sistemas y proponga mejoras.
 
 ### Respuesta
 
@@ -71,7 +72,7 @@ inscribe a los estudiantes en ese paralelo.
 
 
 
-comente las diferencias entre ambos sistemas y proponga mejoras.
+
 
 ### Diferencias entre los sistemas
 
