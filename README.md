@@ -58,7 +58,7 @@ Escriba una analogía de los sistemas A y B con un sistema de inscripción prese
 • Procesar una solicitud implica ir a la sala correspondiente a ese paralelo y hablar con la persona que
 inscribe a los estudiantes en ese paralelo.
 
-## Respuesta
+### Respuesta
 
 - **Sistema A**:
   - Hay una oficina central donde los gestores procesan todas las solicitudes.
