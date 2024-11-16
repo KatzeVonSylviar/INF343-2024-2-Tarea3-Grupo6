@@ -59,7 +59,7 @@ Escriba una analogía de los sistemas A y B con un sistema de inscripción prese
 inscribe a los estudiantes en ese paralelo.
 comente las diferencias entre ambos sistemas y proponga mejoras.
 
-### Respuesta
+### Analogía
 
 - **Sistema A**:
   - Hay una oficina central donde los gestores procesan todas las solicitudes.
