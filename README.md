@@ -81,6 +81,9 @@ comente las diferencias entre ambos sistemas y proponga mejoras.
    
 2. **Sistema B**:
    - Es descentralizado: el bloqueo ocurre solo a nivel del paralelo relevante, permitiendo mayor concurrencia.
+  
+
+### Tabla comparativa
 
 
 | Característica            | Sistema A                       | Sistema B                                    |
