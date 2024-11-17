@@ -2,7 +2,9 @@
 
 Antes de implementar los sistemas A y B haga el diagrama de ambos sistemas (puede ver detalles en “Especificaci´on de la entrega”) y luego responda las siguientes preguntas en el README.md de su repositorio.
 
-![Diagrama del Sistema A](assets/SistemaA1.jpg)
+![Diagrama del Sistema A]
+<img src="assets/SistemaA1.jpg" alt="Diagrama del Sistema A" width="600">
+
 
 
 ¿Qué ocurre cuando n= 1 en ambos sistemas?
