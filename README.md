@@ -2,8 +2,8 @@
 
 Antes de implementar los sistemas A y B haga el diagrama de ambos sistemas (puede ver detalles en “Especificaci´on de la entrega”) y luego responda las siguientes preguntas en el README.md de su repositorio.
 
-![Diagrama del Sistema A]
-<img src="assets/SistemaA1.jpg" alt="Diagrama del Sistema A" width="600">
+
+<img src="assets/SistemaA1.jpg" alt="Diagrama del Sistema A" width="300">
 
 
 
