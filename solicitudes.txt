@@ -1,0 +1,4 @@
+COOPER par01 par02 par03 par04
+ALVAREZMALO par02 par04 par01 par03
+ALVAREZBUENO par02 par01 par04 par03
+ALVARADO par04 par03 par02 par01
